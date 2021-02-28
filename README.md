@@ -14,4 +14,7 @@
 * 2019 korea university future car hackerthon / grand prize / arduino , android
 * 2020 korea university gokathon / best developer prize / nodejs  
 
-
+## stack
+* android
+* nodejs
+* php
