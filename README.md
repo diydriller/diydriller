@@ -7,4 +7,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
+** education
+* korea university computer science major
+
+** award
+* 2019 korea university future car hackerthon / grand prize / arduino , android
+* 2021 korea university gokathon / best developer prize / nodejs  
+
 
