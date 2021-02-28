@@ -12,6 +12,6 @@
 
 ## award
 * 2019 korea university future car hackerthon / grand prize / arduino , android
-* 2021 korea university gokathon / best developer prize / nodejs  
+* 2020 korea university gokathon / best developer prize / nodejs  
 
 
