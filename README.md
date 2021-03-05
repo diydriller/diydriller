@@ -11,10 +11,12 @@
 * korea university computer science major
 
 ## award
-* 2019 korea university future car hackerthon / grand prize / arduino , android
-* 2020 korea university gokathon / best developer prize / nodejs  
+* 2019 korea university future car hackerthon / grand prize / frontend android
+* 2020 korea university gokathon / best developer prize / backend nodejs
+* ybm cospro c++ first class
 
 ## stack
 * android
 * nodejs
 * php
+* c++
