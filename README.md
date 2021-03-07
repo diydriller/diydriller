@@ -7,15 +7,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## education
-* korea university computer science major
 
-## award
-* 2019 korea university future car hackerthon / grand prize / frontend android
-* 2020 korea university gokathon / best developer prize / backend nodejs
-* ybm cospro c++ first class
-
-## stack
+## Languages and tools
 * android
 * nodejs
 * php
