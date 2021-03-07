@@ -7,6 +7,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
+
+
 * I'm currently learning React,Typescript
 
 ## Languages and tools
