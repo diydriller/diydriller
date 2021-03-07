@@ -8,7 +8,7 @@
 </div>
 
 ## Work
-* I'm currently learning React,Typescript
+* I'm currently learning React,Typescript,NodeJs
 * I'm currently developing ykring , dungi
 
 ## Languages and tools
