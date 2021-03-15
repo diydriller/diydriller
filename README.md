@@ -6,8 +6,7 @@
 
 ## Work
 * <a href='https://www.notion.so/3540afb369b8423382abdfdf0fae5a49'>Portpolio</a>
-* I'm currently learning React,Typescript,NodeJs
-* I'm currently developing ykring , dungi
+* I'm currently learning Spring
 
 ## Languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>NodeJs
