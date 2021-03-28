@@ -5,7 +5,7 @@
 
 
 ## Work
-* <a href='https://www.notion.so/3540afb369b8423382abdfdf0fae5a49'>Portpolio</a>
+* <a href='https://www.notion.so/3540afb369b8423382abdfdf0fae5a49'>Portfolio</a>
 * <a href='https://www.notion.so/639bbc7f128946f19cf19cc2dec239c7'>Problem Solving</a>
 * I'm currently learning Spring,React
 * I'm developing and managing <a href="https://xircle.org/">Xircle</a>
