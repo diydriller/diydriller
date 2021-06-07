@@ -4,13 +4,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
-## Work
-* <a href='https://www.notion.so/3540afb369b8423382abdfdf0fae5a49'>Portfolio</a>
-* <a href='https://www.notion.so/639bbc7f128946f19cf19cc2dec239c7'>Problem Solving</a>
-* I'm currently learning Spring,Typescript,Kotlin
-* I'm developing and maintaining <a href="https://xircle.org/">Xircle</a> and <a href="https://play.google.com/store/apps/details?id=com.nestmate.nm1">Dungi Mate</a>
+## 작업
+* <a href='https://www.notion.so/3540afb369b8423382abdfdf0fae5a49'>포트폴리오</a>
+* learning Spring,Typescript,Kotlin
 
-## Languages and tools
+## 기술스택
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>NodeJs
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>Typescript
 <br><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>Android
