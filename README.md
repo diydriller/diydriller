@@ -7,7 +7,8 @@
 ## 작업
 * <a href='https://www.notion.so/3540afb369b8423382abdfdf0fae5a49'>포트폴리오</a>
 * learning Spring,Typescript,Kotlin
-
+* <a href='https://leetcode.com/hyunjong8723/'>leetcode</a>
+  
 ## 기술스택
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>NodeJs
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>Typescript
