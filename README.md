@@ -5,7 +5,6 @@
 
 
 ## 작업
-* <a href='https://www.notion.so/3540afb369b8423382abdfdf0fae5a49'>포트폴리오</a>
 * learning Spring,Typescript,Kotlin
 
   
