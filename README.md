@@ -4,7 +4,7 @@
 ## Presentation
 | No | Title | 
 |:----------|:------------:|
-| 1       | [MySQL InnoDB 아키텍처](https://www.canva.com/design/DAGrPbOzCig/hJtC8UNSb8x2B52mF0hVxg/edit)          |
+| 1       | [MySQL InnoDB 아키텍처](https://www.canva.com/design/DAGrPbOzCig/hJtC8UNSb8x2B52mF0hVxg/edit?utm_content=DAGrPbOzCig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)          |
 
 
 
