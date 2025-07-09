@@ -4,8 +4,8 @@
 ## Presentation
 | No | Title | 
 |:----------|:------------:|
-| 1       | [MySQL InnoDB 아키텍처](https://www.canva.com/design/DAGrQQk06ck/Ntl7jiusNO_CEY6uFXvQvQ/edit?utm_content=DAGrQQk06ck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)          |
-
+| 1       | [MySQL InnoDB 아키텍처](https://docs.google.com/presentation/d/1c6v2HA8L9XkAxClcK-53gLyI1Jm_xA0dP-slI3Ns4nQ/edit?usp=sharing)          |
+| 2       | [MySQL Optimizer와 실행계획](https://docs.google.com/presentation/d/18n3pNf3PPiG_zb41eqtkLmC70fvEjH-Tvx4rJoaaQxA/edit?usp=sharing)          |
 
 
 
