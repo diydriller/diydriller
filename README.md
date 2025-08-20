@@ -7,6 +7,6 @@
 | 1       | [MySQL InnoDB 아키텍처](https://docs.google.com/presentation/d/1c6v2HA8L9XkAxClcK-53gLyI1Jm_xA0dP-slI3Ns4nQ/edit?usp=sharing)      |[발표 영상](https://www.youtube.com/watch?v=SchVD7pepT4)|
 | 2       | [MySQL Optimizer와 실행계획](https://docs.google.com/presentation/d/18n3pNf3PPiG_zb41eqtkLmC70fvEjH-Tvx4rJoaaQxA/edit?usp=sharing) |[발표 영상](https://www.youtube.com/watch?v=9joltKKNoqs)|
 | 3       | [Kafka의 내부동작](https://docs.google.com/presentation/d/1cVbeZ44z1qRmynD8A6zZ_fWkJgySc4vG06ygaMCX6Kg/edit?usp=sharing)           ||
-
+| 4       | [MongoDB 샤딩](https://docs.google.com/presentation/d/1LK6g7zV6FZdRpT7GdJSNJBXVKP4ZSJYk6Ou9aj4PHHw/edit?usp=sharing)               |[발표 영상](https://youtu.be/Fp3dYyNqEX4)|
 
 
