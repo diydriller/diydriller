@@ -14,11 +14,17 @@
 | 2       | [Refresh Token 적용](https://develop-think-record.tistory.com/25)                               | `JWT` `인증` |
 | 1       | [Strategy Pattern 적용](https://develop-think-record.tistory.com/26)                            | `Oauth` `Design Pattern` |
 
-## Study Article
+## Analysis Article
 | No | Title | Keyword |
 |:----------|:------------:|:------------:|
 | 2       | [데이터베이스](https://develop-think-record.tistory.com/category/%EB%B6%84%EC%84%9D/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4) | `MySQL` `MongoDB` |
 | 1       | [블록체인](https://develop-think-record.tistory.com/category/%EB%B6%84%EC%84%9D/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8) | `Ethereum` `XRPL` |
+
+## 
+## Case Article
+| No | Title | Keyword |
+|:----------|:------------:|:------------:|
+| 1       | [강남언니 SEO 전략](https://develop-think-record.tistory.com/47) | `SEO` |
 
 ## Presentation
 | No | PPT | Video |
