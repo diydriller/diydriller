@@ -24,7 +24,8 @@
 ## Case Article
 | No | Title | Keyword |
 |:----------|:------------:|:------------:|
-| 1       | [강남언니 SEO 전략](https://develop-think-record.tistory.com/47) | `SEO` |
+| 2       | [인프런의 트래픽 비용과 아키텍처 개선](https://develop-think-record.tistory.com/48) | `AVIF` `CDN` `Reverse Proxy` |
+| 1       | [강남언니의 SEO 전략](https://develop-think-record.tistory.com/47) | `SEO` |
 
 ## Presentation
 | No | PPT | Video |
