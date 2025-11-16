@@ -9,7 +9,7 @@
 | 7       | [Per 알고리즘 적용해서 성능개선](https://develop-think-record.tistory.com/33)                   | `Cache Stempede` `PER` `AOP` |
 | 6       | [기본키로 TSID 사용](https://develop-think-record.tistory.com/29)                               | `TSID` `Reentrance Lock` |
 | 5       | [gRPC 적용해서 성능개선](https://develop-think-record.tistory.com/28)                           | `REST` `gRPC` `Stub` |
-| 4       | [Spring Batch 성능 개선](https://develop-think-record.tistory.com/40)                           | `Spring Batch` `병렬 처리` `Cursor` `Batch Insert` |
+| 4       | [Spring Batch 성능 개선](https://develop-think-record.tistory.com/13)                           | `Spring Batch` `병렬 처리` `Cursor` `Batch Insert` |
 | 3       | [WebSocket STOMP로 메모 기능 구현](http://develop-think-record.tistory.com/24)                  | `WebSocket` `STOMP` `Redis Pub/Sub` |
 | 2       | [Refresh Token 적용](https://develop-think-record.tistory.com/25)                               | `JWT` `인증` |
 | 1       | [Strategy Pattern 적용](https://develop-think-record.tistory.com/26)                            | `Oauth` `Design Pattern` |
