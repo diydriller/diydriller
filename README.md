@@ -39,5 +39,5 @@
 ## OpenSource
 | No | Title | Keyword |
 |:----------|:------------:|:------------:|
-| 2       | [braillify](https://github.com/dev-five-git/braillify) | `점자` |
+| 2       | [braillify](https://github.com/dev-five-git/braillify/pulls?q=is%3Apr+diydriller) | `점자` |
 | 1       | [database seeder](https://github.com/diydriller/database-seeder) | `plugin` `데이터 생성` |
