@@ -1,6 +1,13 @@
 ## Dev Log
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diydriller)](https://github.com/anuraghazra/github-readme-stats)
 
+## OpenSource
+| No | Project | PR | 
+|:----------|:------------:|:------------:|
+| 3       | [Spring Data Redis](https://github.com/spring-projects/spring-data-redis) | [리팩토링](https://github.com/spring-projects/spring-data-redis/pull/3267) |
+| 2       | [Braillify](https://github.com/dev-five-git/braillify) | [테스트 케이스 수정](https://github.com/dev-five-git/braillify/pull/58) |
+| 1       | [Database Seeder](https://github.com/diydriller/database-seeder) ||
+
 ## Project Article
 | No | Title | Keyword |
 |:----------|:------------:|:------------:|
@@ -35,9 +42,3 @@
 | 3       | [MongoDB 샤딩](https://docs.google.com/presentation/d/1LK6g7zV6FZdRpT7GdJSNJBXVKP4ZSJYk6Ou9aj4PHHw/edit?usp=sharing)               |[발표 영상](https://youtu.be/Fp3dYyNqEX4)|
 | 2       | [MongoDB 복제](https://docs.google.com/presentation/d/1SxJNBvuDUGVnXXBK45Mmispor1Ig2kq3gtZLfDDp7-w/edit?usp=drive_link)            |[발표 영상](https://youtu.be/Nrpe0TJl8qc)|
 | 1       | [Kafka의 내부동작](https://docs.google.com/presentation/d/1cVbeZ44z1qRmynD8A6zZ_fWkJgySc4vG06ygaMCX6Kg/edit?usp=sharing)           ||
-
-## OpenSource
-| No | Title | Keyword |
-|:----------|:------------:|:------------:|
-| 2       | [braillify](https://github.com/dev-five-git/braillify/pulls?q=is%3Apr+diydriller) | `점자` |
-| 1       | [database seeder](https://github.com/diydriller/database-seeder) | `plugin` `데이터 생성` |
