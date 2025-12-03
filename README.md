@@ -1,6 +1,3 @@
-## Dev Log
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diydriller)](https://github.com/anuraghazra/github-readme-stats)
-
 ## OpenSource
 | No | Project | PR | 
 |:----------|:------------:|:------------:|
