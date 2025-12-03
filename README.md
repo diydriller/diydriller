@@ -4,8 +4,9 @@
 ## OpenSource
 | No | Project | PR | 
 |:----------|:------------:|:------------:|
-| 3       | [Spring Data Redis](https://github.com/spring-projects/spring-data-redis) | [리팩토링](https://github.com/spring-projects/spring-data-redis/pull/3267) |
-| 2       | [Braillify](https://github.com/dev-five-git/braillify) | [테스트 케이스 수정](https://github.com/dev-five-git/braillify/pull/58) |
+| 4       | [Kotlin Faker](https://github.com/serpro69/kotlin-faker) | [CLI](https://github.com/serpro69/kotlin-faker/pull/286) |
+| 3       | [Spring Data Redis](https://github.com/spring-projects/spring-data-redis) | [duplicated TTL computation](https://github.com/spring-projects/spring-data-redis/pull/3267) |
+| 2       | [Braillify](https://github.com/dev-five-git/braillify) | [test case](https://github.com/dev-five-git/braillify/pull/58) |
 | 1       | [Database Seeder](https://github.com/diydriller/database-seeder) ||
 
 ## Project Article
