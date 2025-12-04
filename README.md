@@ -1,6 +1,7 @@
 ## OpenSource
 | No | Project | PR | 
 |:----------|:------------:|:------------:|
+| 5       | [Gravitino](https://github.com/apache/gravitino) | [resource path](https://github.com/apache/gravitino/pull/9371) |
 | 4       | [Kotlin Faker](https://github.com/serpro69/kotlin-faker) | [CLI](https://github.com/serpro69/kotlin-faker/pull/286) |
 | 3       | [Spring Data Redis](https://github.com/spring-projects/spring-data-redis) | [duplicated TTL computation](https://github.com/spring-projects/spring-data-redis/pull/3267) |
 | 2       | [Braillify](https://github.com/dev-five-git/braillify) | [test case](https://github.com/dev-five-git/braillify/pull/58) |
