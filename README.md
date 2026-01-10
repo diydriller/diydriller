@@ -1,6 +1,7 @@
 ## OpenSource
 | No | Project | PR | 
 |:----------|:------------:|:------------:|
+| 7       | [Redis Exporter](https://github.com/oliver006/redis_exporter) | [metric](https://github.com/oliver006/redis_exporter/pull/1078) |
 | 6       | [Spring Batch](https://github.com/spring-projects/spring-batch) | [write conflict](https://github.com/spring-projects/spring-batch/pull/5144) |
 | 5       | [Apache Gravitino](https://github.com/apache/gravitino) | [resource path](https://github.com/apache/gravitino/pull/9371) |
 | 4       | [Kotlin Faker](https://github.com/serpro69/kotlin-faker) | [CLI](https://github.com/serpro69/kotlin-faker/pull/286) |
