@@ -1,7 +1,8 @@
 ## OpenSource
 | No | Project | PR | 
-|:----------|:------------:|:------------:|
-| 7       | [Redis Exporter](https://github.com/oliver006/redis_exporter) | [metric](https://github.com/oliver006/redis_exporter/pull/1078) |
+|:----------|:------------:|:------------:|\
+| 7       | [Elasticsearch Exporter](https://github.com/prometheus-community/elasticsearch_exporter) | [indexing](https://github.com/prometheus-community/elasticsearch_exporter/pull/1125) |
+| 7       | [Redis Exporter](https://github.com/oliver006/redis_exporter) | [failover](https://github.com/oliver006/redis_exporter/pull/1078) |
 | 6       | [Spring Batch](https://github.com/spring-projects/spring-batch) | [write conflict](https://github.com/spring-projects/spring-batch/pull/5144) |
 | 5       | [Apache Gravitino](https://github.com/apache/gravitino) | [resource path](https://github.com/apache/gravitino/pull/9371) |
 | 4       | [Kotlin Faker](https://github.com/serpro69/kotlin-faker) | [CLI](https://github.com/serpro69/kotlin-faker/pull/286) |
@@ -32,6 +33,7 @@
 ## Case Article
 | No | Title | Keyword |
 |:----------|:------------:|:------------:|
+| 3       | [카카오의 코드로 개발 환경과 절차 관리하기](https://develop-think-record.tistory.com/49) | `Linter` `Formatter` |
 | 2       | [인프런의 트래픽 비용과 아키텍처 개선](https://develop-think-record.tistory.com/48) | `AVIF` `CDN` `Reverse Proxy` |
 | 1       | [강남언니의 SEO 전략](https://develop-think-record.tistory.com/47) | `SEO` |
 
