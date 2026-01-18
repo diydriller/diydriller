@@ -1,7 +1,7 @@
 ## OpenSource
 | No | Project | PR | 
-|:----------|:------------:|:------------:|\
-| 7       | [Elasticsearch Exporter](https://github.com/prometheus-community/elasticsearch_exporter) | [indexing](https://github.com/prometheus-community/elasticsearch_exporter/pull/1125) |
+|:----------|:------------:|:------------:|
+| 8       | [Elasticsearch Exporter](https://github.com/prometheus-community/elasticsearch_exporter) | [indexing](https://github.com/prometheus-community/elasticsearch_exporter/pull/1125) |
 | 7       | [Redis Exporter](https://github.com/oliver006/redis_exporter) | [failover](https://github.com/oliver006/redis_exporter/pull/1078) |
 | 6       | [Spring Batch](https://github.com/spring-projects/spring-batch) | [write conflict](https://github.com/spring-projects/spring-batch/pull/5144) |
 | 5       | [Apache Gravitino](https://github.com/apache/gravitino) | [resource path](https://github.com/apache/gravitino/pull/9371) |
